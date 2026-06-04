@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,55:0f766e,100:22d3ee&height=180&section=header&text=sunzrnobug&fontColor=ffffff&fontSize=44&fontAlignY=38&animation=fadeIn" alt="sunzrnobug header" />
 
 <a href="https://github.com/sunzrnobug">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=760&lines=TypeScript+%2F+Electron+%2F+React;Building+desktop+tools+and+AI+workflows;Keep+shipping%2C+keep+polishing" alt="Typing intro" />
+  <img src="https://raw.githubusercontent.com/sunzrnobug/sunzrnobug/main/assets/terminal-typing.svg" alt="Cyber terminal typing intro" />
 </a>
 
 <br />
