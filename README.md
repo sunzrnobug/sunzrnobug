@@ -35,8 +35,8 @@
 
 <div align="center">
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=sunzrnobug&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub stats" />
-<img height="175" src="https://github-readme-streak-stats.herokuapp.com?user=sunzrnobug&theme=tokyonight&hide_border=true&date_format=%5BY.%5Dn.j" alt="GitHub streak" />
+<img height="175" src="https://raw.githubusercontent.com/sunzrnobug/sunzrnobug/output/github-profile-stats.svg" alt="GitHub stats" />
+<img height="175" src="https://raw.githubusercontent.com/sunzrnobug/sunzrnobug/output/github-streak.svg" alt="GitHub streak" />
 
 <br />
 

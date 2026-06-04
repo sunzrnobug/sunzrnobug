@@ -13,6 +13,14 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+      - name: Checkout profile source
+        uses: actions/checkout@v4
+
+      - name: Generate profile cards
+        run: node scripts/generate-profile-cards.mjs
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
       - name: Generate snake SVG
         uses: Platane/snk/svg-only@v3
         with:
