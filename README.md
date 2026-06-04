@@ -1,83 +1,63 @@
 <div align="center">
 
-# Hi, I'm sunzrnobug
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,55:0f766e,100:22d3ee&height=180&section=header&text=sunzrnobug&fontColor=ffffff&fontSize=44&fontAlignY=38&animation=fadeIn" alt="sunzrnobug header" />
 
-**Building desktop apps, web tools, and small systems that make everyday work feel lighter.**
+<a href="https://github.com/sunzrnobug">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=760&lines=TypeScript+%2F+Electron+%2F+React;Building+desktop+tools+and+AI+workflows;Keep+shipping%2C+keep+polishing" alt="Typing intro" />
+</a>
 
-TypeScript / Electron / React / Java
+<br />
 
-[![GitHub followers](https://img.shields.io/github/followers/sunzrnobug?style=flat-square&label=Followers&color=0f766e)](https://github.com/sunzrnobug)
-[![Profile views](https://komarev.com/ghpvc/?username=sunzrnobug&style=flat-square&color=0f766e)](https://github.com/sunzrnobug)
-
-</div>
-
-## About
-
-I'm focused on turning ideas into usable products: clean interfaces, reliable backends, and thoughtful developer workflows.
-
-- Currently building **Synapse**, a TypeScript/Electron desktop app.
-- Interested in **frontend systems**, **desktop software**, **AI-assisted workflows**, and **developer tools**.
-- I like projects that combine practical engineering with a polished user experience.
-
-## Toolbox
-
-![TypeScript](https://img.shields.io/badge/TypeScript-111827?style=flat-square&logo=typescript&logoColor=3178C6)
-![React](https://img.shields.io/badge/React-111827?style=flat-square&logo=react&logoColor=61DAFB)
-![Electron](https://img.shields.io/badge/Electron-111827?style=flat-square&logo=electron&logoColor=9FEAF9)
-![Next.js](https://img.shields.io/badge/Next.js-111827?style=flat-square&logo=nextdotjs&logoColor=FFFFFF)
-![Java](https://img.shields.io/badge/Java-111827?style=flat-square&logo=openjdk&logoColor=F97316)
-![Python](https://img.shields.io/badge/Python-111827?style=flat-square&logo=python&logoColor=3776AB)
-![Vite](https://img.shields.io/badge/Vite-111827?style=flat-square&logo=vite&logoColor=646CFF)
-![pnpm](https://img.shields.io/badge/pnpm-111827?style=flat-square&logo=pnpm&logoColor=F69220)
-
-## Featured Work
-
-<table>
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/sunzrnobug/Synapse">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sunzrnobug&repo=Synapse&theme=graywhite&hide_border=true" alt="Synapse repository card" />
-      </a>
-    </td>
-    <td width="50%">
-      <a href="https://github.com/sunzrnobug/2077modzh">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sunzrnobug&repo=2077modzh&theme=graywhite&hide_border=true" alt="2077modzh repository card" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/sunzrnobug/ThreeJsEarth">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sunzrnobug&repo=ThreeJsEarth&theme=graywhite&hide_border=true" alt="ThreeJsEarth repository card" />
-      </a>
-    </td>
-    <td width="50%">
-      <a href="https://github.com/sunzrnobug/Deskit-Docs">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sunzrnobug&repo=Deskit-Docs&theme=graywhite&hide_border=true" alt="Deskit-Docs repository card" />
-      </a>
-    </td>
-  </tr>
-</table>
-
-## GitHub Snapshot
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=sunzrnobug&show_icons=true&theme=graywhite&hide_border=true&rank_icon=github" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunzrnobug&layout=compact&theme=graywhite&hide_border=true" alt="Top languages" />
+<img src="https://komarev.com/ghpvc/?username=sunzrnobug&style=for-the-badge&color=0f766e&label=PROFILE+VIEWS" alt="Profile views" />
+<img src="https://img.shields.io/github/followers/sunzrnobug?style=for-the-badge&label=FOLLOWERS&color=0891b2" alt="GitHub followers" />
 
 </div>
 
-## Now
-
-- Shaping **Synapse** into a useful desktop workspace.
-- Exploring better ways to connect notes, documents, and AI-assisted thinking.
-- Keeping the stack simple enough to move fast and strong enough to ship.
-
----
+## Tech Stack
 
 <div align="center">
 
-Thanks for stopping by. Build useful things, polish the details.
+<img src="https://skillicons.dev/icons?i=ts,react,electron,nextjs,vite,tailwind,java,python,pnpm,git&perline=5" alt="Tech stack icons" />
+
+<br />
+<br />
+
+![TypeScript](https://img.shields.io/badge/TypeScript-020617?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![React](https://img.shields.io/badge/React-020617?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Electron](https://img.shields.io/badge/Electron-020617?style=for-the-badge&logo=electron&logoColor=9FEAF9)
+![Next.js](https://img.shields.io/badge/Next.js-020617?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF)
+![Java](https://img.shields.io/badge/Java-020617?style=for-the-badge&logo=openjdk&logoColor=F97316)
+![Python](https://img.shields.io/badge/Python-020617?style=for-the-badge&logo=python&logoColor=3776AB)
+
+</div>
+
+## Commit Pulse
+
+<div align="center">
+
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=sunzrnobug&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub stats" />
+<img height="175" src="https://github-readme-streak-stats.herokuapp.com?user=sunzrnobug&theme=tokyonight&hide_border=true&date_format=%5BY.%5Dn.j" alt="GitHub streak" />
+
+<br />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sunzrnobug&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Timeline" alt="Contribution timeline" />
+
+</div>
+
+## Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sunzrnobug/sunzrnobug/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sunzrnobug/sunzrnobug/output/github-contribution-grid-snake.svg" />
+  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/sunzrnobug/sunzrnobug/output/github-contribution-grid-snake.svg" />
+</picture>
+
+</div>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22d3ee,45:0f766e,100:020617&height=110&section=footer" alt="Footer wave" />
 
 </div>
