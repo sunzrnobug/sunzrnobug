@@ -35,8 +35,8 @@
 
 <div align="center">
 
-<img height="175" src="https://raw.githubusercontent.com/sunzrnobug/sunzrnobug/output/github-profile-stats.svg" alt="GitHub stats" />
-<img height="175" src="https://raw.githubusercontent.com/sunzrnobug/sunzrnobug/output/github-streak.svg" alt="GitHub streak" />
+<img height="175" src="https://raw.githubusercontent.com/sunzrnobug/sunzrnobug/refs/heads/output/github-profile-stats.svg" alt="GitHub stats" />
+<img height="175" src="https://raw.githubusercontent.com/sunzrnobug/sunzrnobug/refs/heads/output/github-streak.svg" alt="GitHub streak" />
 
 <br />
 
@@ -49,9 +49,9 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sunzrnobug/sunzrnobug/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sunzrnobug/sunzrnobug/output/github-contribution-grid-snake.svg" />
-  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/sunzrnobug/sunzrnobug/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sunzrnobug/sunzrnobug/refs/heads/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sunzrnobug/sunzrnobug/refs/heads/output/github-contribution-grid-snake.svg" />
+  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/sunzrnobug/sunzrnobug/refs/heads/output/github-contribution-grid-snake.svg" />
 </picture>
 
 </div>
