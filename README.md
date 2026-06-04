@@ -31,12 +31,11 @@
 
 </div>
 
-## Commit Pulse
+## AI Collaboration Log
 
 <div align="center">
 
-<img height="175" src="https://raw.githubusercontent.com/sunzrnobug/sunzrnobug/refs/heads/output/github-profile-stats.svg" alt="GitHub stats" />
-<img height="175" src="https://raw.githubusercontent.com/sunzrnobug/sunzrnobug/refs/heads/output/github-streak.svg" alt="GitHub streak" />
+<img src="https://raw.githubusercontent.com/sunzrnobug/sunzrnobug/main/assets/ai-collab-log.svg" alt="Claude and Codex collaboration log" />
 
 <br />
 
