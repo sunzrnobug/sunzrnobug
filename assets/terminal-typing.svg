@@ -1,6 +1,6 @@
 <svg width="900" height="300" viewBox="0 0 900 300" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
   <title id="title">Terminal profile intro</title>
-  <desc id="desc">A quiet terminal-style introduction for sunzrnobug.</desc>
+  <desc id="desc">A quiet terminal-style introduction for sunzrnobug and geospatial engineering work.</desc>
 
   <defs>
     <linearGradient id="frame" x1="44" y1="34" x2="856" y2="266" gradientUnits="userSpaceOnUse">
@@ -25,7 +25,7 @@
     </clipPath>
     <clipPath id="line2Clip">
       <rect x="82" y="140" width="0" height="26">
-        <animate attributeName="width" dur="9s" repeatCount="indefinite" values="0;0;340;340;0" keyTimes="0;0.18;0.33;0.9;1" />
+        <animate attributeName="width" dur="9s" repeatCount="indefinite" values="0;0;470;470;0" keyTimes="0;0.18;0.33;0.9;1" />
       </rect>
     </clipPath>
     <clipPath id="line3Clip">
@@ -35,7 +35,7 @@
     </clipPath>
     <clipPath id="line4Clip">
       <rect x="82" y="212" width="0" height="26">
-        <animate attributeName="width" dur="9s" repeatCount="indefinite" values="0;0;430;430;0" keyTimes="0;0.55;0.74;0.9;1" />
+        <animate attributeName="width" dur="9s" repeatCount="indefinite" values="0;0;590;590;0" keyTimes="0;0.55;0.74;0.9;1" />
       </rect>
     </clipPath>
     <style>
@@ -67,13 +67,13 @@
     <text x="82" y="124" class="mono"><tspan class="prompt">$</tspan><tspan class="cmd"> whoami</tspan></text>
   </g>
   <g clip-path="url(#line2Clip)">
-    <text x="82" y="160" class="mono"><tspan class="muted">sunzrnobug</tspan><tspan class="accent"> / desktop tools</tspan></text>
+    <text x="82" y="160" class="mono"><tspan class="muted">sunzrnobug</tspan><tspan class="accent"> / desktop + geospatial tools</tspan></text>
   </g>
   <g clip-path="url(#line3Clip)">
     <text x="82" y="196" class="mono"><tspan class="prompt">$</tspan><tspan class="cmd"> stack --current</tspan><tspan class="muted"> ts electron react</tspan></text>
   </g>
   <g clip-path="url(#line4Clip)">
-    <text x="82" y="232" class="mono"><tspan class="prompt">$</tspan><tspan class="cmd"> status</tspan><tspan class="muted"> building Synapse and useful workflows</tspan></text>
+    <text x="82" y="232" class="mono"><tspan class="prompt">$</tspan><tspan class="cmd"> status</tspan><tspan class="muted"> building Synapse and GeoScenario tooling</tspan></text>
   </g>
 
   <rect x="496" y="216" width="11" height="20" rx="2" fill="#22d3ee" class="cursor" filter="url(#softGlow)" />
