@@ -25,17 +25,17 @@
     </clipPath>
     <clipPath id="line2Clip">
       <rect x="82" y="140" width="0" height="26">
-        <animate attributeName="width" dur="9s" repeatCount="indefinite" values="0;0;470;470;0" keyTimes="0;0.18;0.33;0.9;1" />
+        <animate attributeName="width" dur="9s" repeatCount="indefinite" values="0;0;620;620;0" keyTimes="0;0.18;0.33;0.9;1" />
       </rect>
     </clipPath>
     <clipPath id="line3Clip">
       <rect x="82" y="176" width="0" height="26">
-        <animate attributeName="width" dur="9s" repeatCount="indefinite" values="0;0;360;360;0" keyTimes="0;0.36;0.52;0.9;1" />
+        <animate attributeName="width" dur="9s" repeatCount="indefinite" values="0;0;520;520;0" keyTimes="0;0.36;0.52;0.9;1" />
       </rect>
     </clipPath>
     <clipPath id="line4Clip">
       <rect x="82" y="212" width="0" height="26">
-        <animate attributeName="width" dur="9s" repeatCount="indefinite" values="0;0;590;590;0" keyTimes="0;0.55;0.74;0.9;1" />
+        <animate attributeName="width" dur="9s" repeatCount="indefinite" values="0;0;690;690;0" keyTimes="0;0.55;0.74;0.9;1" />
       </rect>
     </clipPath>
     <style>
@@ -76,5 +76,8 @@
     <text x="82" y="232" class="mono"><tspan class="prompt">$</tspan><tspan class="cmd"> status</tspan><tspan class="muted"> building Synapse and GeoScenario tooling</tspan></text>
   </g>
 
-  <rect x="496" y="216" width="11" height="20" rx="2" fill="#22d3ee" class="cursor" filter="url(#softGlow)" />
+  <rect x="82" y="108" width="11" height="20" rx="2" fill="#22d3ee" class="cursor" filter="url(#softGlow)">
+    <animate attributeName="x" dur="9s" repeatCount="indefinite" values="82;82;174;174;82;548;548;82;494;494;82;660;660;82" keyTimes="0;0.06;0.16;0.18;0.18;0.33;0.36;0.36;0.52;0.55;0.55;0.74;0.9;1" />
+    <animate attributeName="y" dur="9s" repeatCount="indefinite" values="108;108;108;108;144;144;144;180;180;180;216;216;216;108" keyTimes="0;0.06;0.16;0.18;0.18;0.33;0.36;0.36;0.52;0.55;0.55;0.74;0.9;1" />
+  </rect>
 </svg>
