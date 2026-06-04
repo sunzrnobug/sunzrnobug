@@ -4,6 +4,8 @@
 
 **Building desktop apps, web tools, and small systems that make everyday work feel lighter.**
 
+TypeScript / Electron / React / Java
+
 [![GitHub followers](https://img.shields.io/github/followers/sunzrnobug?style=flat-square&label=Followers&color=0f766e)](https://github.com/sunzrnobug)
 [![Profile views](https://komarev.com/ghpvc/?username=sunzrnobug&style=flat-square&color=0f766e)](https://github.com/sunzrnobug)
 
