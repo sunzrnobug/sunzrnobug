@@ -1,4 +1,4 @@
-name: Generate contribution arena
+name: Generate contribution signal
 
 on:
   schedule:
@@ -16,12 +16,12 @@ jobs:
       - name: Checkout profile source
         uses: actions/checkout@v4
 
-      - name: Generate contribution arena
-        run: node scripts/generate-contribution-arena.mjs
+      - name: Generate contribution signal
+        run: node scripts/generate-contribution-signal.mjs
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Publish generated arena
+      - name: Publish generated signal
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output

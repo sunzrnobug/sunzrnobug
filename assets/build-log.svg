@@ -1,0 +1,60 @@
+<svg width="900" height="280" viewBox="0 0 900 280" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Build log</title>
+  <desc id="desc">A restrained build log for desktop tools, automation, notes, and documents.</desc>
+
+  <defs>
+    <linearGradient id="frame" x1="38" y1="30" x2="862" y2="250" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#22d3ee" />
+      <stop offset="0.52" stop-color="#0f766e" />
+      <stop offset="1" stop-color="#475569" />
+    </linearGradient>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(450 140) rotate(90) scale(190 480)">
+      <stop stop-color="#22d3ee" stop-opacity="0.13" />
+      <stop offset="1" stop-color="#020617" stop-opacity="0" />
+    </radialGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" stroke="#22d3ee" stroke-opacity="0.05" />
+    </pattern>
+    <filter id="glowSoft" x="-30%" y="-40%" width="160%" height="180%" color-interpolation-filters="sRGB">
+      <feDropShadow dx="0" dy="0" stdDeviation="3" flood-color="#22d3ee" flood-opacity="0.45" />
+    </filter>
+    <style>
+      .mono { font-family: "JetBrains Mono", "Fira Code", "Cascadia Code", Consolas, monospace; letter-spacing: 0; }
+      .title { font-size: 22px; font-weight: 800; fill: #f8fafc; }
+      .label { font-size: 13px; font-weight: 600; fill: #94a3b8; }
+      .body { font-size: 15px; font-weight: 500; fill: #cbd5e1; }
+      .accent { fill: #22d3ee; }
+      .green { fill: #86efac; }
+      .muted { fill: #94a3b8; }
+      .tick { animation: tick 3.8s ease-in-out infinite; }
+      @keyframes tick { 0%, 100% { opacity: 0.42; } 45% { opacity: 1; } }
+    </style>
+  </defs>
+
+  <rect width="900" height="280" rx="18" fill="#020617" />
+  <rect width="900" height="280" fill="url(#grid)" />
+  <rect width="900" height="280" fill="url(#glow)" />
+  <rect x="38" y="30" width="824" height="220" rx="16" fill="#020617" fill-opacity="0.86" stroke="url(#frame)" stroke-width="1.4" />
+  <rect x="39" y="31" width="822" height="46" rx="15" fill="#07111f" fill-opacity="0.93" />
+  <line x1="39" y1="77" x2="861" y2="77" stroke="#22d3ee" stroke-opacity="0.16" />
+
+  <circle cx="62" cy="54" r="5.8" fill="#ef4444" />
+  <circle cx="83" cy="54" r="5.8" fill="#f59e0b" />
+  <circle cx="104" cy="54" r="5.8" fill="#10b981" />
+  <text x="132" y="60" class="mono title">build.log</text>
+  <text x="820" y="60" text-anchor="end" class="mono label">updated by shipped work</text>
+
+  <line x1="96" y1="112" x2="96" y2="214" stroke="#22d3ee" stroke-opacity="0.2" />
+  <circle cx="96" cy="116" r="6" fill="#22d3ee" filter="url(#glowSoft)" />
+  <circle cx="96" cy="158" r="6" fill="#0f766e" filter="url(#glowSoft)" />
+  <circle cx="96" cy="200" r="6" fill="#86efac" filter="url(#glowSoft)" />
+
+  <text x="124" y="120" class="mono body"><tspan class="accent">desktop workspace</tspan><tspan class="muted"> :: </tspan><tspan>Electron surfaces, local-first flows, quiet UI</tspan></text>
+  <text x="124" y="162" class="mono body"><tspan class="green">automation</tspan><tspan class="muted"> :: </tspan><tspan>small scripts, repeatable actions, less manual drag</tspan></text>
+  <text x="124" y="204" class="mono body"><tspan class="accent">notes + documents</tspan><tspan class="muted"> :: </tspan><tspan>make thinking easier to capture and revisit</tspan></text>
+
+  <rect x="680" y="106" width="132" height="94" rx="12" fill="#07111f" fill-opacity="0.74" stroke="#22d3ee" stroke-opacity="0.14" />
+  <text x="704" y="132" class="mono label">signal</text>
+  <text x="704" y="160" class="mono body green">useful</text>
+  <text x="704" y="186" class="mono label tick">polish in progress</text>
+</svg>

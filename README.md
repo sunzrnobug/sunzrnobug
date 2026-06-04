@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,55:0f766e,100:22d3ee&height=180&section=header&text=sunzrnobug&fontColor=ffffff&fontSize=44&fontAlignY=38&animation=fadeIn" alt="sunzrnobug header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,55:0f766e,100:22d3ee&height=160&section=header&text=sunzrnobug&fontColor=ffffff&fontSize=42&fontAlignY=38&animation=fadeIn" alt="sunzrnobug header" />
 
 <a href="https://github.com/sunzrnobug">
-  <img src="https://raw.githubusercontent.com/sunzrnobug/sunzrnobug/main/assets/terminal-typing.svg" alt="Cyber terminal typing intro" />
+  <img src="https://raw.githubusercontent.com/sunzrnobug/sunzrnobug/main/assets/terminal-typing.svg" alt="Terminal profile intro" />
 </a>
 
 <br />
@@ -31,11 +31,11 @@
 
 </div>
 
-## AI Collaboration Log
+## Build Log
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/sunzrnobug/sunzrnobug/main/assets/ai-collab-log.svg" alt="Claude and Codex collaboration log" />
+<img src="https://raw.githubusercontent.com/sunzrnobug/sunzrnobug/main/assets/build-log.svg" alt="Build log" />
 
 <br />
 
@@ -43,11 +43,11 @@
 
 </div>
 
-## Contribution Arena
+## Contribution Signal
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/sunzrnobug/sunzrnobug/refs/heads/output/contribution-snake-arena.svg" alt="Cyber contribution snake arena" />
+<img src="https://raw.githubusercontent.com/sunzrnobug/sunzrnobug/refs/heads/output/contribution-signal.svg" alt="Contribution signal" />
 
 </div>
 
